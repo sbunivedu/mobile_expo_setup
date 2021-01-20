@@ -39,7 +39,7 @@ cd my-app
 expo start
 ```
 
-You should see a QR code on your computer screen. Scanning the QR code (with Camera app in iPhone and with expo client app on Android phone) will launch your new app in your "expo client" app on your phone.
+You should see a QR code on your computer screen. Scanning the QR code (with the Camera app on iPhones and with the expo client app on Android phones) will launch your new app in your "expo client" app on your phone.
 
 Change the text on your app to "Hello world from " followed by your name. To refresh you app after code change, you need to shake your device and choose "Reload" from the menu.
 
