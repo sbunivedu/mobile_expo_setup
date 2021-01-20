@@ -3,9 +3,11 @@
 
 ## MacOS
 Follow the get-started instructions on https://docs.expo.io/get-started/installation/ to install the necessary tools:
-1. Download and install [Node.js](https://nodejs.org/) LTS, run `node -v` in Terminal afterwards to check your node version is at least `14.15.4`.
+1. Install [git](https://git-scm.com/download/mac).
 
-2. To install expo tool run `npm install --global expo-cli` in Terminal.
+2. Download and install [Node.js](https://nodejs.org/) LTS, run `node -v` in Terminal afterwards to check your node version is at least `14.15.4`.
+
+3. To install expo tool run `npm install --global expo-cli` in Terminal.
 
 4. Install one of the recommended editors: [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac) or [VSCode](https://code.visualstudio.com/download).
 
