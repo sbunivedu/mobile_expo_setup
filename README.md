@@ -32,13 +32,15 @@ Follow the get-started instructions on https://docs.expo.io/get-started/installa
 ## Hello World App
 You also need to create an account on https://expo.io/ and install the "Expo Client" app on your phone (or other testing device) from your app store.
 
-Follow the [get started instruction](https://docs.expo.io/get-started/create-a-new-app/) to create a new app:
+Follow the [get started guide](https://docs.expo.io/get-started/create-a-new-app/) to create a new app:
 ```
 expo init my-app
 cd my-app
 expo start
 ```
 
-You should be able to see your new app running in your "expo client" app on your phone. Change the text on your app to "Hello world from " followed by your name. To refresh you app after code change, you need to shake your device and choose "Reload" from the menu.
+You should see a QR code on your computer screen. Scanning the QR code (with Camera app in iPhone and with expo client app on Android phone) will launch your new app in your "expo client" app on your phone.
+
+Change the text on your app to "Hello world from " followed by your name. To refresh you app after code change, you need to shake your device and choose "Reload" from the menu.
 
 Take a snapshot of your screen and submit it as a proof of your work.
