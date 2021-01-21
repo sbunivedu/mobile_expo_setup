@@ -25,9 +25,7 @@ Follow the get-started instructions on https://docs.expo.io/get-started/installa
 
 4. Install one of the recommended editors: [Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-mac) or [VSCode](https://code.visualstudio.com/download).
 
-5. Install [Watchman](https://facebook.github.io/watchman/docs/install).
-
-6. Install [Yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable).
+5. Install [Yarn](https://classic.yarnpkg.com/en/docs/install#mac-stable).
 
 ## Hello World App
 You also need to create an account on https://expo.io/ and install the "Expo Client" app on your phone (or other testing device) from your app store.
